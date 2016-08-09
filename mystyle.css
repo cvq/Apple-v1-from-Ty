@@ -1,0 +1,62 @@
+
+body{
+	padding-top: 45px;
+	
+}
+.navbar-default{
+	background-color: #37383B;
+  	border-color: #222222;
+}
+.navbar-brand{
+	padding-top:0;
+	
+}
+.navbar-form >.form-group > input[type="text"]{
+	height: 23px;
+	margin:0;
+}
+.navbar-form > input[type="submit"]{
+	height:24px;
+	margin:5px;
+	
+}
+.navbar{
+	font-size: 13px;
+    font-weight: 300;
+
+}
+
+
+.nav.navbar-nav.navbar-right > li > a,.nav.navbar-nav > li > a,.nav.navbar-nav > li > a:hover,
+.nav.navbar-nav.navbar-right > li > a:hover{
+    color: white;
+    		
+}
+.nav.navbar-nav.navbar-right > li > a:hover,.nav.navbar-nav > li > a:hover{
+	background-color: #272727;
+}
+.nav.navbar-nav > li > .dropdown-menu{ 
+	background-color: #333333;
+			
+}
+.nav.navbar-nav > li > .dropdown-menu > li > a{
+
+	color:white;
+	font-weight: 200;
+  line-height: 20px;
+			
+}
+.nav.navbar-nav > li > .dropdown-menu > li > a:hover{
+	background-color:#272727;
+			
+}
+
+
+body{
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
